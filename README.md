@@ -1,4 +1,4 @@
-# java-webdriver-cucumber
+# Initial project for assessment control selenium tests 
 
-Base framework for Java Webdriver automation with Cucumber
+
 
